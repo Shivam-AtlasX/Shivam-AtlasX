@@ -1,54 +1,26 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=46&duration=3200&pause=2000&color=00F0FF&center=true&vCenter=true&width=1100&lines=CYBERSECURITY+STUDENT&stroke=00F0FF&strokeWidth=2" />
-</p>
-  
-<p align="center">
-  <img src="https://img.shields.io/badge/Adversarial%20Security-0D1117?style=for-the-badge&logo=ghost&logoColor=00F0FF" />
-  <img src="https://img.shields.io/badge/Offensive%20%E2%80%A2%20Defensive%20%E2%80%A2%20AI-0D1117?style=for-the-badge&logo=probot&logoColor=00F0FF" />
-</p> 
+<div align="center">
+
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=⚡SHIVAM⚡&fontSize=80&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Ethical%20Hacker%20%7C%20AI%20Security%20Builder&descAlignY=60&descSize=18&descColor=ffffff" />
+
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1500&color=00F0FF&center=true&vCenter=true&width=800&lines=Adversarial+Security+%7C+Offensive+%2B+Defensive;Trust+Is+The+First+Vulnerability.;I+Learn+How+Systems+Collapse.+So+I+Build+What+Doesn't.;Ethical+Hacker+%7C+Secure+AI+Builder" alt="Typing SVG" />
+
+<br/>
+
+<!-- BADGES ROW -->
+![Profile Views](https://komarev.com/ghpvc/?username=Shivam-pro-hacker&label=Profile+Views&color=00F0FF&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Shivam-pro-hacker?label=Followers&style=flat-square&color=00F0FF&labelColor=0D1117)](https://github.com/Shivam-pro-hacker)
+![Focus](https://img.shields.io/badge/Focus-Adversarial%20Security-00F0FF?style=flat-square&labelColor=0D1117)
+![Status](https://img.shields.io/badge/Status-Building%20%26%20Breaking-00F0FF?style=flat-square&labelColor=0D1117)
+
+</div>
 
 ## ⚠️ Trust Is The First Vulnerability.
 
-## 🕶️ About Me    
-
-I don’t chase vulnerabilities.   
-I study why they exist. 
-
-I look past tools into system architecture —   
-trust boundaries, hidden assumptions, failure paths.
-
-Anything built can be understood.  
-Anything understood can be broken — or made resilient.
-
-I focus on structural weaknesses:  
-auth logic, trust chains, state flow.
- 
-I learn how systems collapse.   
-So I can build what doesn’t.
- 
-🧠 Cybersecurity Engineer | Ethical Hacker | Secure AI Builder   
-⚡ Offensive Security • Defensive Architecture • Intelligent Systems
-
----
- 
-## 🕶️ Identity 
-
-I operate where systems fail and security begins.  
-I study how things break — then design how they should never break again.   
-
-My work lives at the intersection of:
-
-- Cybersecurity Engineering
-- Ethical Hacking
-- AI-Driven Defense
-- Secure Software Architecture
-
-Silence is my signature.   
-Execution is my proof.
-
 ---
 
-## ███ RESEARCH SIGNATURE
+## 🕵️‍♂️ RESEARCH SIGNATURE
 
 **Field :** ![Field](https://img.shields.io/badge/Cybersecurity%20%26%20Ethical%20Hacker-0D1117?style=for-the-badge&logo=hackaday&logoColor=00F0FF)  
 
@@ -68,101 +40,107 @@ Execution is my proof.
 > to help build them stronger 
 ---
 
-## 🛠️ Arsenal
+## 🛠️ Arsenal & ⚙️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00F0FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F0FF)
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=00F0FF)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali" />
+</p>
 
-### Security
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00F0FF)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00F0FF)
-![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=00F0FF)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00F0FF)
-![OWASP](https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=00F0FF)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,python,cpp,js,html,github,vscode" />
+</p>
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00F0FF)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00F0FF)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00F0FF)
-
-### Development
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=00F0FF)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=00F0FF)
-![Web Security](https://img.shields.io/badge/Web_Security-0D1117?style=for-the-badge&logo=hackaday&logoColor=00F0FF)
-
-### Systems
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00F0FF)
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00F0FF)  
+<p align="center">
+  <img height="125" src="https://img.shields.io/badge/-Parrot%20OS-1a1a2e?style=for-the
+  badge&logo=linux&logoColor=44FF88" />
+  <img height="125" src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00F0FF" />
+  <img height="125" src="https://img.shields.io/badge/-Burp%20Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=FF6600" />
+  <img height="125" src="https://img.shields.io/badge/-OWASP-1a1a2e?style=for-the-badge&logo=owasp&logoColor=00CC44" />
+  <img height="125" src="https://img.shields.io/badge/-Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&logoColor=FF4444" />
+  <img height="125" src="https://img.shields.io/badge/-Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=1E90FF" />
+</p>  
 
 ---
 
 ## 🧩 Active Operations
 
-![AI Scanner](https://img.shields.io/badge/AI_Vulnerability_Scanner-0D1117?style=for-the-badge&logo=ai&logoColor=00F0FF)
-![Code Analyzer](https://img.shields.io/badge/Secure_Code_Analyzer-0D1117?style=for-the-badge&logo=code&logoColor=00F0FF)
-![Mini SOC](https://img.shields.io/badge/Mini_SOC_System-0D1117?style=for-the-badge&logo=shield&logoColor=00F0FF)
-![AI Text](https://img.shields.io/badge/AI_Text_Detection-0D1117?style=for-the-badge&logo=brain&logoColor=00F0FF)
-![Auth Sim](https://img.shields.io/badge/Auth_Attack_Simulator-0D1117?style=for-the-badge&logo=lock&logoColor=00F0FF)  
-
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🔍 **AI Vulnerability Scanner** | ML-powered scanner that detects CVEs and misconfigurations in live targets | `[ ACTIVE ]` |
+| 🛡️ **Secure Code Analyzer** | Static analysis engine for identifying auth flaws and injection vectors | `[ ACTIVE ]` |
+| 🖥️ **Mini SOC System** | Lightweight Security Operations Center with real-time alert correlation | `[ BUILDING ]` |
+| 🤖 **AI Text Detection** | Neural classifier to detect AI-generated content with adversarial robustness | `[ RESEARCH ]` |
+| 🔐 **Auth Attack Simulator** | Controlled environment to test authentication flows against known attack patterns | `[ ACTIVE ]` |
+  
 ---
 
 ## 📊 GitHub Intelligence
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shivam-pro-hacker&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shivam-pro-hacker&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F0FF&icon_color=00F0FF" />
+<img height="180" src="https://streak-stats.demolab.com?user=Shivam-pro-hacker&theme=tokyonight&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-pro-hacker&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&langs_count=8" />
+
+</div>
 
 ---
 
-## ☠️ Philosophy
+# 🏴‍☠️ Terminal Zone
 
-![Philosophy](https://img.shields.io/badge/Security%20Philosophy-0D1117?style=for-the-badge&logo=ghost&logoColor=00F0FF)
+```bash
+┌──(root㉿shivam)-[~]
+└─# whoami
+Shivam | Ethical Hacker | AI Builder
 
-Secure systems are not built by developers.  
-They are built by those who know how to break them.  
+┌──(root㉿shivam)-[~]
+└─# ls
+CyberSecurity  AI  RedTeam BlueTeam 
 
-I learn attacks.  
-I engineer defense.  
-I build what survives both.
+┌──(root㉿shivam)-[~]
+└─# skills
+Pentesting | Web Security | Automation | OSINT | SOC
+
+┌──(root㉿shivam)-[~]
+└─# projects
+SENTINEL-X  NEXUS-AI CyberAssassins
+
+┌──(root㉿shivam)-[~]
+└─# STATUS
+Building offensive & defensive security tools.
+```
 
 ---
 
-## ☠️ Ethos
-
-![Ethos](https://img.shields.io/badge/Adversarial%20Ethos-0D1117?style=for-the-badge&logo=ghost&logoColor=00F0FF)
-
-I am not interested in breaking things for spectacle.  
-Only in understanding them completely.  
-
-Because complete understanding  
-is the only real form of control.
-
----
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
-<a href="https://github.com/Shivam-pro-hacker" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivam-pro-hacker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/%E3%85%A4-%E3%85%A4-ab9868377/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/shivam_pro_hi/)
 
-<a href="https://www.instagram.com/shivam_pro_hi/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/%E3%85%A4-%E3%85%A4-ab9868377/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 > I don't break system, i prove they were already broken.
 > I follow logic until security disappears.
 > The quieter I become, the more dangerous my knowledge grows.
+
+---
+
+<div align="center">
+
+*"I don't find broken systems. I prove they were already broken."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
+
+---
 
 <!--
 **Shivam-pro-hacker/Shivam-pro-hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
