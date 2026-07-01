@@ -20,6 +20,27 @@
 
 ---
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+# <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> About Me
+
+```python
+class Shivam():
+
+    def __init__(self):
+        self.role = "AI Engineer & Cybersecurity Enthusiast"
+        self.language = ["Python", "C++", "JavaScript"]
+        self.os = ["Linux", "Windows", "Kali Linux"]
+        self.learning = ["AI", "Machine Learning", "Ethical Hacking"]
+
+    def say_hi(self):
+        print("Thanks for visiting my GitHub!")
+```
+
+---
+
 ## 🕵️‍♂️ RESEARCH SIGNATURE
 
 **Field :** ![Field](https://img.shields.io/badge/Cybersecurity%20%26%20Ethical%20Hacker-0D1117?style=for-the-badge&logo=hackaday&logoColor=00F0FF)  
