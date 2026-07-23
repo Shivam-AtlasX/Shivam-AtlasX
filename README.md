@@ -9,8 +9,8 @@
 <br/>
 
 <!-- BADGES ROW -->
-![Profile Views](https://komarev.com/ghpvc/?username=Shivam-pro-hacker&label=Profile+Views&color=00F0FF&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/Shivam-pro-hacker?label=Followers&style=flat-square&color=00F0FF&labelColor=0D1117)](https://github.com/Shivam-pro-hacker)
+![Profile Views](https://komarev.com/ghpvc/?username=Shivam-AtlasX&label=Profile+Views&color=00F0FF&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Shivam-AtlasX?label=Followers&style=flat-square&color=00F0FF&labelColor=0D1117)](https://github.com/Shivam-AtlasX)
 ![Focus](https://img.shields.io/badge/Focus-Adversarial%20Security-00F0FF?style=flat-square&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/Status-Building%20%26%20Breaking-00F0FF?style=flat-square&labelColor=0D1117)
 
