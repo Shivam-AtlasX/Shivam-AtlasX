@@ -1,3 +1,13 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="ProShivam GitHub Profile" src="./dark.svg" width="100%">
+  </picture>
+</p>
+
+---
+
 <div align="center">
  
 <!-- HEADER BANNER -->
@@ -15,16 +25,6 @@
 ![Status](https://img.shields.io/badge/Status-Building%20%26%20Breaking-00F0FF?style=flat-square&labelColor=0D1117)
 
 </div>
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="ProShivam GitHub Profile" src="./dark.svg" width="100%">
-  </picture>
-</p>
 
 ---
 
