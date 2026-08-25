@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
     <img alt="ProShivam GitHub Profile" src="./dark.svg" width="100%">
   </picture> 
-</p>   
+</p>    
              
 ---     
 
